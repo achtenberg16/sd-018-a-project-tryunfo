@@ -1,0 +1,21 @@
+.Preview {
+  border: solid 1px;
+  border-radius: 15px;
+  height: 549px;
+  position: absolute;
+  right: 30px;
+  top: 10px;
+  width: 368px;
+}
+
+img {
+  height: 218px;
+  margin: 29px 16px;
+  width: 317px;
+}
+
+.nome {
+  position: absolute;
+  right: 4px;
+  top: 0;
+}
